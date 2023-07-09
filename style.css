@@ -141,12 +141,14 @@ margin-right: 100px;
     
     .sidebar .btn-two .material-symbols-outlined{
         border:1px solid #501616 ;
-        padding: 7px 7px;
         transition: transform 0.3s ease-in 0s;
+         padding: 4px 4px;
+        font-size:50px;
     }
      .btn-one .material-symbols-outlined{
         border:1px solid #501616 ;
-        padding: 17px 17px;
+        padding: 4px 4px;
+         font-size:50px;
     }
     .navbar{
         position: relative;   
